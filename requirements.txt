@@ -1,0 +1,8 @@
+sagemaker
+scikit-learn
+pandas
+numpy
+matplotlib
+ipykernel
+streamlit
+seaborn
