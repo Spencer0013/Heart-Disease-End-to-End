@@ -2,7 +2,7 @@
 <br/>
 <div align="center">
 <a href="https://github.com/ShaanCoding/ReadME-Generator">
-<img src="https://entirelynourished.com/wp-content/uploads/2023/07/stress-heart-attack-768x512.jpeg" alt="Logo" width="80" height="80">
+<img src="https://www.genengnews.com/wp-content/uploads/2021/12/GettyImages-1293132839-scaled-e1640204438522.jpg" alt="Logo" width="80" height="80">
 </a>
 <h3 align="center">Heart Disease Prediction</h3>
 <p align="center">
