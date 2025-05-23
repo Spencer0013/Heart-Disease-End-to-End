@@ -6,6 +6,13 @@ import tempfile
 import pandas as pd
 import tarfile
 
+
+
+# Access AWS credentials from secrets
+#aws_access_key_id = st.secrets["AWS_ACCESS_KEY_ID"]
+#aws_secret_access_key = st.secrets["AWS_SECRET_ACCESS_KEY"]
+#aws_region = st.secrets["AWS_DEFAULT_REGION"]
+
 # S3 info
 s3_bucket = 'sagemaker-eu-north-1-902376761557'
 s3_key = 'logreg-sklearn-2025-05-05-16-03-22-929/output/model.tar.gz'
